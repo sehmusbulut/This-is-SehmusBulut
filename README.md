@@ -7,13 +7,6 @@
 * Görüşlerinizi iletmek için bulubduğum medya platformu ve mail hesabım aşağıdadır,ilginiz için teşekkür ederim.
 
 
-
- # Twitter : @sehmusbulut0
- # P-Mail  : cloudsoft37@proton.me
- # G-Mail  : sehmusbulut.developer@gmail.com
-
-
-
 İLGİLİ DİLLER : 
 
 * HTML,CSS,Javascript                          
